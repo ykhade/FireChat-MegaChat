@@ -12,7 +12,7 @@
   "main": "lib/index.js",
   "dependencies": {
     "axios": "^0.28.0",
-    "firebase-admin": "~6.0.0",
+    "firebase-admin": "~6.5.1",
     "firebase-functions": "^2.3.1"
   },
   "devDependencies": {
